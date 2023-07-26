@@ -1,0 +1,44 @@
+{
+	"id": -1,
+	"name": "Wir sind keine Bots (We are no Bots)",
+	"description": "A streamer tries with his community to attack the German flag in the night. He wants to put a blue square there to put his Logo on. The lost Streamer thinks the German Flag is weak because he mistakes the German artworks for others that already attacked us. The Nightwatch is able to stand their ground and beat him back with the help of the German streamer Stegi. ",
+	"links": {},
+	"path": {
+		"220": [
+			[
+				-1500,
+				-941
+			],
+			[
+				-1468,
+				-941
+			],
+			[
+				-1468,
+				-966
+			],
+			[
+				-1500,
+				-966
+			],
+			[
+				-1500,
+				-966
+			],
+			[
+				-1500,
+				-966
+			],
+			[
+				-1500,
+				-941
+			]
+		]
+	},
+	"center": {
+		"220": [
+			-1484,
+			-953
+		]
+	}
+}
